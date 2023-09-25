@@ -1,2 +1,4 @@
 # droidvim-config
-DroidVIM config
+
+**DroidVIM** config
+
